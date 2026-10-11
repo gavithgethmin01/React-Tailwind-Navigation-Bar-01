@@ -4,6 +4,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <div className="name">React Project</div>
+      <div classNmae="container">Container</div>
     </>
   );
 }
